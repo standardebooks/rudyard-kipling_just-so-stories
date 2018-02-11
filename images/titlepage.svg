@@ -28,7 +28,7 @@
 		}
 	</style>
 	<text class="title" x="700" y="130">JUST SO STORIES</text>
-<text class="author" x="700" y="290">RUDYARD KIPLING</text>
-<text class="contributor-descriptor" x="700" y="470">illustrated by</text>
-<text class="contributor" x="700" y="540">RUDYARD KIPLING</text>
+	<text class="author" x="700" y="290">RUDYARD KIPLING</text>
+	<text class="contributor-descriptor" x="700" y="470">illustrated by</text>
+	<text class="contributor" x="700" y="540">RUDYARD KIPLING</text>
 </svg>

@@ -25,42 +25,54 @@
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/32488</meta>
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/32488</meta>
 		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/32488</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Childrens</meta>
+		<dc:description id="description">A collection of short humorous fables for children, most purporting to tell the origin of animal characteristics such as the camel’s hump.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONGDESCRIPTION </meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;&lt;i&gt;Just So Stories&lt;/i&gt; by Rudyard Kipling, first published in 1902, is now considered to be a classic of children’s literature. The twelve tales included are all humorous ‘origin’ stories purporting to tell how certain animals gained their distinctive features. For example, “The Elephant’s Child” tells how the elephant gained its long trunk because of a baby elephant having its nose pulled and stretched by a crocodile.&lt;/p&gt;
+			&lt;p&gt;The stories originated as bedtime tales Kipling invented for his daughter and told to her each night. The stories had to be told in exactly the same words each night—‘just so’—or his daughter would complain.&lt;/p&gt;
+			&lt;p&gt;Early editions of &lt;i&gt;Just So Stories&lt;/i&gt; were illustrated in black and white by Kipling himself, which lends the collection a certain charm. We have reproduced these illustrations in the Standard Ebooks edition of the book.&lt;/p&gt;
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/32488</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Just_So_Stories</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/rudyard-kipling_just-so-stories</meta>
 		<dc:creator id="author">Rudyard Kipling</dc:creator>
-		<meta property="file-as" refines="#author">AUTHORSORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHORFULLNAME</meta>
+		<meta property="file-as" refines="#author">Kipling, Rudyard</meta>
+		<meta property="se:name.person.full-name" refines="#author">Joseph Rudyard Kipling</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Rudyard_Kipling</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79103792</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVERARTISTWIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVERARTISTNACOAFLINK</meta>
+		<dc:contributor id="illustrator">Rudyard Kipling</dc:contributor>
+		<meta property="file-as" refines="#illustrator">Kipling, Rudyard</meta>
+		<meta property="se:name.person.full-name" refines="#illustrator">Joseph Rudyard Kipling</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#illustrator">https://en.wikipedia.org/wiki/Rudyard_Kipling</meta>
+		<meta property="se:url.authority.nacoaf" refines="#illustrator">http://id.loc.gov/authorities/names/n79103792</meta>
+		<meta property="role" refines="#illustrator" scheme="marc:relators">ill</meta>
+		<dc:contributor id="artist">Joseph Michael Gleeson</dc:contributor>
+		<meta property="file-as" refines="#artist">Gleeson, Joseph Michael</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Joseph_M._Gleeson</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n85069306</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Suzanne Shell</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBERSORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Shell, Suzanne</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">ann</meta>
 		<dc:contributor id="transcriber-2">Emmy</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBERSORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Emmy</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCERSORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">LINK</meta>
+		<dc:contributor id="producer-1">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://rightword.com.au/david.php</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -73,16 +85,112 @@
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
+		<item href="images/figure-09-01.svg" id="figure-09-01.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-02.svg" id="figure-09-02.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-03.svg" id="figure-09-03.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-04.svg" id="figure-09-04.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-05.svg" id="figure-09-05.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-06.svg" id="figure-09-06.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-07.svg" id="figure-09-07.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-08.svg" id="figure-09-08.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-09.svg" id="figure-09-09.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-10.svg" id="figure-09-10.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-11.svg" id="figure-09-11.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-12.svg" id="figure-09-12.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-13.svg" id="figure-09-13.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-14.svg" id="figure-09-14.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-15.svg" id="figure-09-15.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-16.svg" id="figure-09-16.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-17.svg" id="figure-09-17.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-18.svg" id="figure-09-18.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-19.svg" id="figure-09-19.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-20.svg" id="figure-09-20.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-21.svg" id="figure-09-21.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-22.svg" id="figure-09-22.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-23.svg" id="figure-09-23.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-24.svg" id="figure-09-24.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-25.svg" id="figure-09-25.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-26.svg" id="figure-09-26.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-27.svg" id="figure-09-27.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-28.svg" id="figure-09-28.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-29.svg" id="figure-09-29.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-30.svg" id="figure-09-30.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-31.svg" id="figure-09-31.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-32.svg" id="figure-09-32.svg" media-type="image/svg+xml"/>
+		<item href="images/figure-09-33.svg" id="figure-09-33.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-01-01.svg" id="illo-01-01.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-01-02.svg" id="illo-01-02.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-01-03.svg" id="illo-01-03.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-02-01.svg" id="illo-02-01.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-02-02.svg" id="illo-02-02.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-02-03.svg" id="illo-02-03.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-03-01.svg" id="illo-03-01.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-03-02.svg" id="illo-03-02.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-03-03.svg" id="illo-03-03.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-04-01.svg" id="illo-04-01.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-04-02.svg" id="illo-04-02.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-04-03.svg" id="illo-04-03.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-05-01.svg" id="illo-05-01.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-05-02.svg" id="illo-05-02.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-05-03.svg" id="illo-05-03.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-06-01.svg" id="illo-06-01.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-06-02.svg" id="illo-06-02.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-06-03.svg" id="illo-06-03.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-07-01.svg" id="illo-07-01.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-07-02.png" id="illo-07-02.png" media-type="image/png"/>
+		<item href="images/illo-07-03.svg" id="illo-07-03.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-08-01.svg" id="illo-08-01.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-08-02.svg" id="illo-08-02.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-08-03.svg" id="illo-08-03.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-09-01.svg" id="illo-09-01.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-09-02.svg" id="illo-09-02.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-10-01.svg" id="illo-10-01.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-10-02.svg" id="illo-10-02.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-10-03.svg" id="illo-10-03.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-11-01.svg" id="illo-11-01.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-11-02.svg" id="illo-11-02.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-11-03.svg" id="illo-11-03.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-12-01.svg" id="illo-12-01.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-12-02.svg" id="illo-12-02.svg" media-type="image/svg+xml"/>
+		<item href="images/illo-12-03.svg" id="illo-12-03.svg" media-type="image/svg+xml"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/how-the-alphabet-was-made.xhtml" id="how-the-alphabet-was-made.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/how-the-camel-got-his-hump.xhtml" id="how-the-camel-got-his-hump.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/how-the-first-letter-was-written.xhtml" id="how-the-first-letter-was-written.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/how-the-leopard-got-his-spots.xhtml" id="how-the-leopard-got-his-spots.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/how-the-rhinoceros-got-his-skin.xhtml" id="how-the-rhinoceros-got-his-skin.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/how-the-whale-got-his-throat.xhtml" id="how-the-whale-got-his-throat.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/loi.xhtml" id="loi.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-beginning-of-the-armadillos.xhtml" id="the-beginning-of-the-armadillos.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/the-butterfly-that-stamped.xhtml" id="the-butterfly-that-stamped.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/the-cat-that-walked-by-himself.xhtml" id="the-cat-that-walked-by-himself.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/the-crab-that-played-with-the-sea.xhtml" id="the-crab-that-played-with-the-sea.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/the-elephants-child.xhtml" id="the-elephants-child.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/the-sing-song-of-old-man-kangaroo.xhtml" id="the-sing-song-of-old-man-kangaroo.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
+		<itemref idref="how-the-whale-got-his-throat.xhtml"/>
+		<itemref idref="how-the-camel-got-his-hump.xhtml"/>
+		<itemref idref="how-the-rhinoceros-got-his-skin.xhtml"/>
+		<itemref idref="how-the-leopard-got-his-spots.xhtml"/>
+		<itemref idref="the-elephants-child.xhtml"/>
+		<itemref idref="the-sing-song-of-old-man-kangaroo.xhtml"/>
+		<itemref idref="the-beginning-of-the-armadillos.xhtml"/>
+		<itemref idref="how-the-first-letter-was-written.xhtml"/>
+		<itemref idref="how-the-alphabet-was-made.xhtml"/>
+		<itemref idref="the-crab-that-played-with-the-sea.xhtml"/>
+		<itemref idref="the-cat-that-walked-by-himself.xhtml"/>
+		<itemref idref="the-butterfly-that-stamped.xhtml"/>
+		<itemref idref="loi.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>

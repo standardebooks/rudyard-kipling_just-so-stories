@@ -1,9 +1,8 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-p.caption{
-	text-align: center;
-	font-variant: all-small-caps;
+abbr.name{
+	white-space: nowrap;
 }
 
 img.alphabet{

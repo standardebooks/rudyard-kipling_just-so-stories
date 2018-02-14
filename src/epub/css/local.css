@@ -70,9 +70,9 @@ div[epub|type~="z3998:figure"] > p{
 img.dropcap{
 	padding-right: 0.5em;
 	padding-bottom: 0.5em;
-	max-width: 15vw;
-	max-height: 20vh;
 	float: left;
+	max-width: 8em;
+	max-height: 12em;
 }
 
 p span.i1{

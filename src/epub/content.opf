@@ -41,8 +41,8 @@
 		<dc:description id="description">A collection of short humorous fables for children, most purporting to tell the origin of animal characteristics such as the camel’s hump.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Just So Stories&lt;/i&gt; by Rudyard Kipling, first published in 1902, is now considered to be a classic of children’s literature. The twelve tales included are all humorous ‘origin’ stories purporting to tell how certain animals gained their distinctive features. For example, “The Elephant’s Child” tells how the elephant gained its long trunk because of a baby elephant having its nose pulled and stretched by a crocodile.&lt;/p&gt;
-			&lt;p&gt;The stories originated as bedtime tales Kipling invented for his daughter and told to her each night. The stories had to be told in exactly the same words each night—‘just so’—or his daughter would complain.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Just So Stories&lt;/i&gt; by Rudyard Kipling, first published in 1902, is now considered to be a classic of children’s literature. The twelve tales included are all humorous “origin” stories purporting to tell how certain animals gained their distinctive features. For example, “The Elephant’s Child” tells how the elephant gained its long trunk because of a baby elephant having its nose pulled and stretched by a crocodile.&lt;/p&gt;
+			&lt;p&gt;The stories originated as bedtime tales Kipling invented for his daughter and told to her each night. The stories had to be told in exactly the same words each night—“just so”—or his daughter would complain.&lt;/p&gt;
 			&lt;p&gt;Early editions of &lt;i&gt;Just So Stories&lt;/i&gt; were illustrated in black and white by Kipling himself, which lends the collection a certain charm. We have reproduced these illustrations in the Standard Ebooks edition of the book.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
@@ -59,12 +59,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Rudyard_Kipling</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79103792</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="illustrator">Rudyard Kipling</dc:contributor>
-		<meta property="file-as" refines="#illustrator">Kipling, Rudyard</meta>
-		<meta property="se:name.person.full-name" refines="#illustrator">Joseph Rudyard Kipling</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#illustrator">https://en.wikipedia.org/wiki/Rudyard_Kipling</meta>
-		<meta property="se:url.authority.nacoaf" refines="#illustrator">http://id.loc.gov/authorities/names/n79103792</meta>
-		<meta property="role" refines="#illustrator" scheme="marc:relators">ill</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist">Joseph Michael Gleeson</dc:contributor>
 		<meta property="file-as" refines="#artist">Gleeson, Joseph Michael</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Joseph_M._Gleeson</meta>

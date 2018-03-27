@@ -6,23 +6,13 @@ abbr.name{
 }
 
 img.alphabet{
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 0.5em;
-	margin-bottom: 0.5em;
-	max-height: 10vh;
-	max-width: 90vw;
+	max-height: 10%;
+	max-width: 90%;
 }
 
 img.letter{
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 0.5em;
-	margin-bottom: 0.5em;
-	max-height: 50vh;
-	max-width: 90vw;
+	max-height: 50%;
+	max-width: 90%;
 }
 
 div[epub|type~="z3998:figure"]{
@@ -67,6 +57,15 @@ div[epub|type~="z3998:figure"] > p{
 	margin-top: 1em;
 }
 
+figure.fullpage{
+	page-break-before: always;
+	page-break-after: always;
+	page-break-inside: avoid;
+	margin: 0;
+	max-height: 100%;
+	text-align: center;
+}
+
 figure{
 	margin: 1em auto;
 	text-align: center;
@@ -80,6 +79,11 @@ figure img{
 	max-width: 100%;
 	margin: auto;
 	display: block;
+}
+
+figcaption{
+	font-style: italic;
+	font-size: .75em;
 }
 
 img.dropcap{

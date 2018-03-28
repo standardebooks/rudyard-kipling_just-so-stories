@@ -15,29 +15,6 @@ img.letter{
 	max-width: 90%;
 }
 
-div[epub|type~="z3998:figure"]{
-	page-break-before: always;
-	margin-top: 1em;
-	margin-bottom: 1em;
-}
-
-div[epub|type~="z3998:figure"] > img{
-	display: block;
-	max-width: 100%;
-	margin: auto;
-	display: block;
-	max-height: 100vh;
-}
-
-div[epub|type~="z3998:figure"] > p{
-	display: block;
-	margin-top: 1em;
-	margin-left: auto;
-	margin-right: auto;
-	text-indent: 0;
-	width: 90%;
-}
-
 [epub|type~="z3998:poem"] p{
 	text-align: left;
 	text-indent: 0;
@@ -84,14 +61,6 @@ figure img{
 figcaption{
 	font-style: italic;
 	font-size: .75em;
-}
-
-img.dropcap{
-	padding-right: 0.5em;
-	padding-bottom: 0.5em;
-	float: left;
-	max-width: 8em;
-	max-height: 10em;
 }
 
 p span.i1{

@@ -34,12 +34,12 @@ img.letter{
 	margin-top: 1em;
 }
 
-figure.fullpage{
+figure.full-page{
+	margin: 0;
+	max-height: 100%;
 	page-break-before: always;
 	page-break-after: always;
 	page-break-inside: avoid;
-	margin: 0;
-	max-height: 100%;
 	text-align: center;
 }
 
@@ -48,14 +48,14 @@ figure{
 	text-align: center;
 }
 
-figure + p{
-	text-indent: 0;
+figure img{
+	display: block;
+	margin: auto;
+	max-width: 100%;
 }
 
-figure img{
-	max-width: 100%;
-	margin: auto;
-	display: block;
+figure + p{
+	text-indent: 0;
 }
 
 figcaption{

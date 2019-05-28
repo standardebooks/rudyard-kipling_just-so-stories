@@ -59,6 +59,10 @@ figcaption{
 	font-size: .75em;
 }
 
+figcaption em{
+	font-style: normal;
+}
+
 p span.i1{
 	padding-left: 2em;
 }

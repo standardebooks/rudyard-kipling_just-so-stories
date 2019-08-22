@@ -55,8 +55,9 @@ figure + p{
 }
 
 figcaption{
-	font-style: italic;
 	font-size: .75em;
+	font-style: italic;
+	margin: 1em;
 }
 
 figcaption em{

@@ -11,5 +11,9 @@
 			<code>x-003</code>
 			<reason>The SVG is too complex and causes Inkscape to crash when opened, so the `transform` attribute can't be removed.</reason>
 		</ignore>
+		<ignore>
+			<code>x-014</code>
+			<reason>The `id` attribute is referenced by a transform, but the SVG is too complex and causes Inkscape to crash when opened. Thus the `id` attribute can't be removed.</reason>
+		</ignore>
 	</file>
 </se-lint-ignore>

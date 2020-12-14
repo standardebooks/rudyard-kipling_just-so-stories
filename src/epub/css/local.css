@@ -60,6 +60,10 @@ figcaption{
 	margin: 1em;
 }
 
+figcaption p{
+	text-indent: 0;
+}
+
 figcaption em{
 	font-style: normal;
 }

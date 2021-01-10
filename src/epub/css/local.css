@@ -64,6 +64,7 @@ figcaption p{
 	text-indent: 0;
 }
 
+figcaption i,
 figcaption em{
 	font-style: normal;
 }

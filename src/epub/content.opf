@@ -41,6 +41,7 @@
 		<meta property="term" refines="#subject-3">sh2004003267</meta>
 		<meta property="se:subject">Childrens</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of short humorous fables for children, most purporting to tell the origin of animal characteristics such as the camel’s hump.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Just So Stories&lt;/i&gt; by &lt;a href="https://standardebooks.org/ebooks/rudyard-kipling"&gt;Rudyard Kipling&lt;/a&gt;, first published in 1902, is now considered to be a classic of children’s literature. The twelve tales included are all humorous “origin” stories purporting to tell how certain animals gained their distinctive features. For example, “The Elephant’s Child” tells how the elephant gained its long trunk because of a baby elephant having its nose pulled and stretched by a crocodile.&lt;/p&gt;

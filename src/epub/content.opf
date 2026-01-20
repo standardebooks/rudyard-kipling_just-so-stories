@@ -52,7 +52,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/32488</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/012189068</dc:source>
-		<meta property="se:word-count">34302</meta>
+		<meta property="se:word-count">33576</meta>
 		<meta property="se:reading-ease.flesch">77.98</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Just_So_Stories</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/rudyard-kipling_just-so-stories</meta>

@@ -7,9 +7,11 @@
 	</file>
 	<file path="illustration-7-1.svg">
 		<ignore code="x-003">
+			<line>139</line>
 			<reason>The SVG is too complex and causes Inkscape to crash when opened, so the `transform` attribute can't be removed.</reason>
 		</ignore>
 		<ignore code="x-014">
+			<line>140</line>
 			<reason>The `id` attribute is referenced by a transform, but the SVG is too complex and causes Inkscape to crash when opened. Thus the `id` attribute can't be removed.</reason>
 		</ignore>
 	</file>

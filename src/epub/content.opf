@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/rudyard-kipling/just-so-stories</dc:identifier>
 		<dc:date>2018-03-28T20:27:20Z</dc:date>
@@ -44,12 +44,12 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:description id="description">A collection of short humorous fables for children, most purporting to tell the origin of animal characteristics such as the camel’s hump.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A collection of short humorous fables for children, most purporting to tell the origin of animal characteristics such as the camel’s hump.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;Just So Stories&lt;/i&gt; by &lt;a href="https://standardebooks.org/ebooks/rudyard-kipling"&gt;Rudyard Kipling&lt;/a&gt;, first published in 1902, is now considered to be a classic of children’s literature. The twelve tales included are all humorous “origin” stories purporting to tell how certain animals gained their distinctive features. For example, “The Elephant’s Child” tells how the elephant gained its long trunk because of a baby elephant having its nose pulled and stretched by a crocodile.&lt;/p&gt;
 			&lt;p&gt;The stories originated as bedtime tales Kipling invented for his daughter and told to her each night. The stories had to be told in exactly the same words each night—“just so”—or his daughter would complain.&lt;/p&gt;
 			&lt;p&gt;Early editions of &lt;i&gt;Just So Stories&lt;/i&gt; were illustrated in black and white by Kipling himself, which lends the collection a certain charm. We have reproduced these illustrations in the Standard Ebooks edition of the book.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/32488</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/012189068</dc:source>
